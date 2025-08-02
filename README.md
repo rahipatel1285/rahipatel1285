@@ -32,10 +32,6 @@ I'm a cybersecurity professional dedicated to strengthening the digital security
 <!-- MISSION SECTION -->
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx5c21kc24xa3c0MzZuaWJqM2dmaTdhcnphaGgxcnZxNXU3YXc5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YOqZav2Y8pkCHvXo6u/giphy.gif" width="30px"> MY MISSION </h2>
 
-<div align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in&layout=default&font=default&quotesUrl=https://gist.githubusercontent.com/rahipatel1285/quote.json" alt="Security Quote">
-</div>
-
 I believe in democratizing cybersecurity knowledge and making digital protection accessible to everyone. Through education, research, and practical tools, I'm working to build a world where security is a fundamental right, not a luxury.
 
 <!-- PROJECTS SECTION
