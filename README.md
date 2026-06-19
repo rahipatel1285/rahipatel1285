@@ -91,12 +91,7 @@ I believe in democratizing cybersecurity knowledge and making digital protection
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahipatel1285&custom_title=Contribution%20Graph&theme=github-dark&bg_color=0d1117&line=00FF96&point=00B3FF&color=c9d1d9&area=true&area_color=00FF96&hide_border=true" width="100%">
-</div>
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahipatel1285&theme=github-dark&background=0d1117&border=30363d&ring=00FF96&fire=00B3FF&currStreakNum=00FF96&sideNums=00FF96&currStreakLabel=00B3FF&sideLabels=00B3FF&dates=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahipatel1285&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true" />
 </div>
 
 <!-- CONNECT SECTION -->
