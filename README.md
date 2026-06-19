@@ -6,7 +6,6 @@
     <a href="https://securewithtechies.com">
       <img src="https://img.shields.io/badge/WEBSITE-securewithtechies.com-00B3FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=rahipatel1285&style=for-the-badge&color=00CE81&label=PROFILE+VIEWS"/>
   </div>
   
   <p align="center">
