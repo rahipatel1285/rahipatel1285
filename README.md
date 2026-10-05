@@ -17,6 +17,9 @@ SUBJECT
 CLASSIFICATION
   security · engineering ·
   controlled chaos
+ACTIVE OPERATIONS
+  ███████████  █████  ███████
+  details withheld by subject
 KNOWN FOR
   · turning "quick ideas" into
     platforms
@@ -24,8 +27,8 @@ KNOWN FOR
     page before it exists
   · reading the logs nobody reads
 OBJECTIVE
-  ship RawStrix. then the first
-  open-source repo.
+  ship what's classified. then
+  open-source something.
 WEAKNESS
   "I could build that myself."
   he usually can. that is the
@@ -35,17 +38,6 @@ COMMENDATIONS
   github's words, not mine
 STATUS
   building something. ask later.
-```
-
-### `03` Currently building
-
-```text
-$ top -o ambition
-
-rawstrix     [████████░░]  building
-client work  [██████████]  shipping
-first oss    [██░░░░░░░░]  plotting
-sleep        [░░░░░░░░░░]  not found
 ```
 
 <!-- TODO: keep this README minimal. status: wontfix -->

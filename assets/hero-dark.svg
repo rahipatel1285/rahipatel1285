@@ -45,10 +45,10 @@
 
   <line x1="504" y1="88" x2="504" y2="306" stroke="#30363d"/>
   <text class="mono label" x="536" y="112">PROCESSES</text>
-  <text class="mono proc" x="536" y="156">rawstrix</text>
+  <rect x="536" y="143" width="104" height="16" rx="1.5" fill="#e6edf3"/>
   <rect x="664" y="147" width="148" height="7" rx="3.5" fill="#21262d"/>
   <rect class="bar" style="animation: calm 6s ease-in-out infinite alternate" x="664" y="147" width="115" height="7" rx="3.5" fill="#f0a830"/>
-  <text class="mono proc" x="536" y="194">client work</text>
+  <rect x="536" y="181" width="52" height="16" rx="1.5" fill="#e6edf3"/>
   <rect x="664" y="185" width="148" height="7" rx="3.5" fill="#21262d"/>
   <rect class="bar" style="animation: calm 3s ease-in-out infinite alternate" x="664" y="185" width="142" height="7" rx="3.5" fill="#f0a830"/>
   <text class="mono proc" x="536" y="232">first oss</text>
