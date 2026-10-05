@@ -17,7 +17,6 @@ CLASSIFICATION
   security · engineering ·
   controlled chaos
 ACTIVE OPERATIONS
-  ███████████  █████  ███████
   details withheld by subject
 KNOWN FOR
   · turning "quick ideas" into
