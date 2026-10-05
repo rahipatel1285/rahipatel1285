@@ -7,7 +7,6 @@
 
 **Thinks three moves ahead. Occasionally trips on the first one.**
 
-### `02` Case file
 
 ```text
 CASE FILE #1285         CLASSIFIED
