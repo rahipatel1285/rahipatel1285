@@ -45,13 +45,16 @@
 
   <line x1="504" y1="88" x2="504" y2="306" stroke="#30363d"/>
   <text class="mono label" x="536" y="112">PROCESSES</text>
-  <text class="mono proc" x="536" y="174">classified</text>
-  <rect x="664" y="165" width="148" height="7" rx="3.5" fill="#21262d"/>
-  <rect class="bar" style="animation: calm 6s ease-in-out infinite alternate" x="664" y="165" width="121" height="7" rx="3.5" fill="#f0a830"/>
-  <text class="mono proc" x="536" y="214">first oss</text>
-  <rect x="664" y="205" width="148" height="7" rx="3.5" fill="#21262d"/>
-  <rect class="bar" style="animation: calm 4.5s ease-in-out infinite alternate" x="664" y="205" width="33" height="7" rx="3.5" fill="#f0a830"/>
-  <text class="mono proc" x="536" y="254">sleep</text>
-  <rect x="664" y="245" width="148" height="7" rx="3.5" fill="#21262d"/>
-  <rect class="bar" style="animation: chaos 2.6s ease-in-out infinite alternate" x="664" y="245" width="9" height="7" rx="3.5" fill="#f0a830"/>
+  <text class="mono proc" x="536" y="156">work</text>
+  <rect x="664" y="147" width="148" height="7" rx="3.5" fill="#21262d"/>
+  <rect class="bar" style="animation: calm 3s ease-in-out infinite alternate" x="664" y="147" width="142" height="7" rx="3.5" fill="#f0a830"/>
+  <text class="mono proc" x="536" y="194">side quest</text>
+  <rect x="664" y="185" width="148" height="7" rx="3.5" fill="#21262d"/>
+  <rect class="bar" style="animation: calm 6s ease-in-out infinite alternate" x="664" y="185" width="115" height="7" rx="3.5" fill="#f0a830"/>
+  <text class="mono proc" x="536" y="232">r&amp;d</text>
+  <rect x="664" y="223" width="148" height="7" rx="3.5" fill="#21262d"/>
+  <rect class="bar" style="animation: calm 4.5s ease-in-out infinite alternate" x="664" y="223" width="95" height="7" rx="3.5" fill="#f0a830"/>
+  <text class="mono proc" x="536" y="270">sleep</text>
+  <rect x="664" y="261" width="148" height="7" rx="3.5" fill="#21262d"/>
+  <rect class="bar" style="animation: chaos 2.6s ease-in-out infinite alternate" x="664" y="261" width="9" height="7" rx="3.5" fill="#f0a830"/>
 </svg>
