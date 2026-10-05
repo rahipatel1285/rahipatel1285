@@ -45,16 +45,16 @@
 
   <line x1="504" y1="88" x2="504" y2="306" stroke="#d1d9e0"/>
   <text class="mono label" x="536" y="112">PROCESSES</text>
-  <text class="mono proc" x="536" y="156">work</text>
+  <text class="mono proc" x="536" y="156">Work</text>
   <rect x="664" y="147" width="148" height="7" rx="3.5" fill="#eaeef2"/>
   <rect class="bar" style="animation: calm 3s ease-in-out infinite alternate" x="664" y="147" width="142" height="7" rx="3.5" fill="#9a5b00"/>
-  <text class="mono proc" x="536" y="194">side quest</text>
+  <text class="mono proc" x="536" y="194">Side Quest</text>
   <rect x="664" y="185" width="148" height="7" rx="3.5" fill="#eaeef2"/>
   <rect class="bar" style="animation: calm 6s ease-in-out infinite alternate" x="664" y="185" width="115" height="7" rx="3.5" fill="#9a5b00"/>
-  <text class="mono proc" x="536" y="232">r&amp;d</text>
+  <text class="mono proc" x="536" y="232">R&amp;D</text>
   <rect x="664" y="223" width="148" height="7" rx="3.5" fill="#eaeef2"/>
   <rect class="bar" style="animation: calm 4.5s ease-in-out infinite alternate" x="664" y="223" width="95" height="7" rx="3.5" fill="#9a5b00"/>
-  <text class="mono proc" x="536" y="270">sleep</text>
+  <text class="mono proc" x="536" y="270">Sleep</text>
   <rect x="664" y="261" width="148" height="7" rx="3.5" fill="#eaeef2"/>
   <rect class="bar" style="animation: chaos 2.6s ease-in-out infinite alternate" x="664" y="261" width="9" height="7" rx="3.5" fill="#9a5b00"/>
 </svg>
