@@ -37,42 +37,7 @@ STATUS
   building something. ask later.
 ```
 
-### `03` Things I probably shouldn't say
-
-> "The client asked for a simple landing page."<br>
-> *narrator: it now has multi-tenant billing, role-based access and an audit log.*
-
-> "Nobody is going to attack the CTF platform."<br>
-> *narrator: it was a CTF. everybody attacked the platform.*
-
-> "I'll rotate the keys tomorrow."<br>
-> *narrator: he rotated them in four minutes. he has seen things.*
-
-> "Let's keep this README minimal."<br>
-> *narrator: you are reading section three.*
-
-### `04` Flagship
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/rawstrix-dark.svg">
-  <img src="assets/rawstrix-light.svg" alt="Mission file 001: RawStrix, a cybersecurity platform and cyber range. In development." width="100%">
-</picture>
-
-```text
-MISSION     somewhere to learn,
-            compete, break things
-            and get better
-OBJECTIVE   security practice that
-            feels like an op,
-            not a quiz
-THREAT      everyone who signs up.
-MODEL       that's the point.
-STACK       classified, for now
-REPO        private
-WEBSITE     not live yet
-```
-
-### `05` Currently building
+### `03` Currently building
 
 ```text
 $ top -o ambition
@@ -82,26 +47,6 @@ client work  [██████████]  shipping
 first oss    [██░░░░░░░░]  plotting
 sleep        [░░░░░░░░░░]  not found
 ```
-
-<details>
-<summary><code>/var/log/incidents</code></summary>
-<br>
-
-```text
-INC-0042  deployed on a friday.
-          survived. told nobody.
-INC-0107  "quick fix" took nine
-          hours. root cause: the
-          word "quick".
-INC-0451  fixed a bug by renaming
-          a variable. not asking.
-INC-1285  you opened the incident
-          log. clearance upgraded.
-```
-
-</details>
-
-<sub>(END) press q to quit</sub>
 
 <!-- TODO: keep this README minimal. status: wontfix -->
 <!-- 48 61 63 6b 20 74 68 65 20 6d 69 6e 64 73 65 74 2c 20 6e 6f 74 20 6a 75 73 74 20 74 68 65 20 6d 61 63 68 69 6e 65 2e -->
